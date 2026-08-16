@@ -109,7 +109,17 @@
   <tr>
     <td align="center" width="120"><img src="./assets/icons/openai.svg" width="48" height="48" alt="OpenAI API" /><br /><sub><strong>OpenAI API</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/scikit-learn.svg" width="48" height="48" alt="scikit-learn" /><br /><sub><strong>scikit-learn</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" /><br /><sub><strong>PyTorch</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" /><br /><sub><strong>TensorFlow</strong></sub></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/keras.svg" width="48" height="48" alt="Keras" /><br /><sub><strong>Keras</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/transformers.svg" width="48" height="48" alt="Transformers" /><br /><sub><strong>Transformers</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/langchain.svg" width="48" height="48" alt="LangChain" /><br /><sub><strong>LangChain</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/prophet.svg" width="48" height="48" alt="Prophet" /><br /><sub><strong>Prophet</strong></sub></td>
   </tr>
 </table>
 
@@ -121,4 +131,21 @@
   </tr>
 </table>
 
-<!-- Featured projects and contact sections will be added next. -->
+<h2 align="center">LET'S CONNECT</h2>
+
+<p align="center">
+  Interested in data engineering, analytics, or AI? Let's connect and build something impactful.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/steven-lopez-v">
+    <img
+      src="./assets/linkedin-button.svg"
+      width="280"
+      alt="Connect with Steven López on LinkedIn"
+    />
+  </a>
+</p>
+
+<!-- Featured projects will be added next. -->
+
