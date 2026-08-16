@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/steven-data-ai-banner.png"
+    src="./assets/steven-lopez-data-ai-engineer-banner.png"
     alt="Steven López | Data & AI Engineer"
     width="100%"
   />
