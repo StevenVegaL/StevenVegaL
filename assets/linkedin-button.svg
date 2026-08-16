@@ -1,7 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" role="img" aria-label="Connect with Steven López on LinkedIn">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 92" role="img" aria-label="Connect with Steven López on LinkedIn">
   <title>Connect with Steven López on LinkedIn</title>
-  <rect x="1" y="1" width="358" height="62" rx="16" fill="#0A66C2"/>
-  <rect x="16" y="14" width="36" height="36" rx="6" fill="#ffffff"/>
-  <text x="34" y="41" text-anchor="middle" fill="#0A66C2" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">in</text>
-  <text x="72" y="40" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Connect on LinkedIn</text>
+  <defs>
+    <linearGradient id="linkedin-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#0A66C2"/>
+      <stop offset="0.55" stop-color="#078CD6"/>
+      <stop offset="1" stop-color="#00C6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="12" width="424" height="72" rx="22" fill="#0369A1" fill-opacity="0.26"/>
+  <rect x="8" y="8" width="424" height="72" rx="22" fill="url(#linkedin-gradient)"/>
+  <rect x="9" y="9" width="422" height="70" rx="21" fill="none" stroke="#BAE6FD" stroke-opacity="0.75"/>
+  <path d="M30 18 H408" stroke="#FFFFFF" stroke-opacity="0.18" stroke-linecap="round"/>
+
+  <circle cx="52" cy="46" r="23" fill="#FFFFFF"/>
+  <text x="52" y="55" text-anchor="middle" fill="#0A66C2" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">in</text>
+
+  <text x="88" y="42" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">Connect with me</text>
+  <text x="88" y="63" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="13">LinkedIn · Steven López</text>
+
+  <circle cx="397" cy="46" r="17" fill="#FFFFFF" fill-opacity="0.18"/>
+  <path d="M390 46 H404 M399 40 L405 46 L399 52" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

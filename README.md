@@ -31,6 +31,9 @@
   &nbsp; • &nbsp; 🌎 Open to remote opportunities
 </p>
 
+<br />
+<br />
+
 <h2 align="center">TECH STACK</h2>
 
 <h3 align="center">Programming, Databases &amp; Data Processing</h3>
@@ -40,13 +43,6 @@
     <td align="center" width="120"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /><br /><sub><strong>Python</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/sql.svg" width="48" height="48" alt="SQL" /><br /><sub><strong>SQL</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/pyspark.svg" width="48" height="48" alt="PySpark" /><br /><sub><strong>PySpark</strong></sub></td>
-    <td align="center" width="120"><img src="./assets/icons/pandas.svg" width="48" height="48" alt="pandas" /><br /><sub><strong>pandas</strong></sub></td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" /><br /><sub><strong>NumPy</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br /><sub><strong>PostgreSQL</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /><br /><sub><strong>MongoDB</strong></sub></td>
   </tr>
@@ -57,7 +53,6 @@
 <table align="center">
   <tr>
     <td align="center" width="120"><img src="./assets/icons/microsoft-fabric.svg" width="48" height="48" alt="Microsoft Fabric" /><br /><sub><strong>Microsoft Fabric</strong></sub></td>
-    <td align="center" width="120"><img src="./assets/icons/azure-data-factory.svg" width="48" height="48" alt="Azure Data Factory" /><br /><sub><strong>Azure Data Factory</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/databricks.svg" width="48" height="48" alt="Databricks" /><br /><sub><strong>Databricks</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/airflow.svg" width="48" height="48" alt="Apache Airflow" /><br /><sub><strong>Apache Airflow</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/bigquery.svg" width="48" height="48" alt="BigQuery" /><br /><sub><strong>BigQuery</strong></sub></td>
@@ -68,7 +63,6 @@
   <tr>
     <td align="center" width="120"><img src="./assets/icons/aws.svg" width="48" height="48" alt="AWS" /><br /><sub><strong>AWS</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/azure.svg" width="48" height="48" alt="Microsoft Azure" /><br /><sub><strong>Microsoft Azure</strong></sub></td>
-    <td align="center" width="120"><img src="./assets/icons/google-cloud.svg" width="48" height="48" alt="Google Cloud" /><br /><sub><strong>Google Cloud</strong></sub></td>
   </tr>
 </table>
 
@@ -89,17 +83,9 @@
   <tr>
     <td align="center" width="120"><img src="./assets/icons/n8n.svg" width="48" height="48" alt="n8n" /><br /><sub><strong>n8n</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/github-actions.svg" width="48" height="48" alt="GitHub Actions" /><br /><sub><strong>GitHub Actions</strong></sub></td>
-    <td align="center" width="120"><img src="./assets/icons/azure-devops.svg" width="48" height="48" alt="Azure DevOps" /><br /><sub><strong>Azure DevOps</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/git.svg" width="48" height="48" alt="Git" /><br /><sub><strong>Git</strong></sub></td>
-    <td align="center" width="120"><img src="./assets/icons/linux.svg" width="48" height="48" alt="Linux" /><br /><sub><strong>Linux</strong></sub></td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
     <td align="center" width="120"><img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" /><br /><sub><strong>Docker</strong></sub></td>
     <td align="center" width="120"><img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /><br /><sub><strong>GitHub</strong></sub></td>
-    <td align="center" width="120"><img src="./assets/icons/rest-api.svg" width="48" height="48" alt="REST APIs" /><br /><sub><strong>REST APIs</strong></sub></td>
   </tr>
 </table>
 
@@ -131,6 +117,9 @@
   </tr>
 </table>
 
+<br />
+<br />
+
 <h2 align="center">LET'S CONNECT</h2>
 
 <p align="center">
@@ -141,11 +130,10 @@
   <a href="https://www.linkedin.com/in/steven-lopez-v">
     <img
       src="./assets/linkedin-button.svg"
-      width="280"
+      width="320"
       alt="Connect with Steven López on LinkedIn"
     />
   </a>
 </p>
 
 <!-- Featured projects will be added next. -->
-
