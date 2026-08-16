@@ -33,22 +33,22 @@
 
 <h2 align="center">TECH STACK</h2>
 
-<h3 align="center">Languages &amp; Data Processing</h3>
+<h3 align="center">Programming, Databases &amp; Data Processing</h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /><br />
-      <sub><strong>Python</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/sql.svg" width="48" height="48" alt="SQL" /><br />
-      <sub><strong>SQL</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/pyspark.svg" width="48" height="48" alt="PySpark" /><br />
-      <sub><strong>PySpark</strong></sub>
-    </td>
+    <td align="center" width="120"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /><br /><sub><strong>Python</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/sql.svg" width="48" height="48" alt="SQL" /><br /><sub><strong>SQL</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/pyspark.svg" width="48" height="48" alt="PySpark" /><br /><sub><strong>PySpark</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/pandas.svg" width="48" height="48" alt="pandas" /><br /><sub><strong>pandas</strong></sub></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" /><br /><sub><strong>NumPy</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br /><sub><strong>PostgreSQL</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /><br /><sub><strong>MongoDB</strong></sub></td>
   </tr>
 </table>
 
@@ -56,68 +56,68 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="./assets/icons/microsoft-fabric.svg" width="48" height="48" alt="Microsoft Fabric" /><br />
-      <sub><strong>Microsoft Fabric</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/azure-data-factory.svg" width="48" height="48" alt="Azure Data Factory" /><br />
-      <sub><strong>Azure Data Factory</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/databricks.svg" width="48" height="48" alt="Databricks" /><br />
-      <sub><strong>Databricks</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/airflow.svg" width="48" height="48" alt="Apache Airflow" /><br />
-      <sub><strong>Apache Airflow</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/bigquery.svg" width="48" height="48" alt="BigQuery" /><br />
-      <sub><strong>BigQuery</strong></sub>
-    </td>
+    <td align="center" width="120"><img src="./assets/icons/microsoft-fabric.svg" width="48" height="48" alt="Microsoft Fabric" /><br /><sub><strong>Microsoft Fabric</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/azure-data-factory.svg" width="48" height="48" alt="Azure Data Factory" /><br /><sub><strong>Azure Data Factory</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/databricks.svg" width="48" height="48" alt="Databricks" /><br /><sub><strong>Databricks</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/airflow.svg" width="48" height="48" alt="Apache Airflow" /><br /><sub><strong>Apache Airflow</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/bigquery.svg" width="48" height="48" alt="BigQuery" /><br /><sub><strong>BigQuery</strong></sub></td>
   </tr>
 </table>
 
-<h3 align="center">Analytics, AI &amp; Automation</h3>
-
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="./assets/icons/power-bi.svg" width="48" height="48" alt="Power BI" /><br />
-      <sub><strong>Power BI</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/tableau.svg" width="48" height="48" alt="Tableau" /><br />
-      <sub><strong>Tableau</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/openai.svg" width="48" height="48" alt="OpenAI API" /><br />
-      <sub><strong>OpenAI API</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/n8n.svg" width="48" height="48" alt="n8n" /><br />
-      <sub><strong>n8n</strong></sub>
-    </td>
+    <td align="center" width="120"><img src="./assets/icons/aws.svg" width="48" height="48" alt="AWS" /><br /><sub><strong>AWS</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/azure.svg" width="48" height="48" alt="Microsoft Azure" /><br /><sub><strong>Microsoft Azure</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/google-cloud.svg" width="48" height="48" alt="Google Cloud" /><br /><sub><strong>Google Cloud</strong></sub></td>
   </tr>
 </table>
 
-<h3 align="center">DevOps &amp; Version Control</h3>
+<h3 align="center">Analytics &amp; Business Intelligence</h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="./assets/icons/github-actions.svg" width="48" height="48" alt="GitHub Actions" /><br />
-      <sub><strong>GitHub Actions</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/azure-devops.svg" width="48" height="48" alt="Azure DevOps" /><br />
-      <sub><strong>Azure DevOps</strong></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" /><br />
-      <sub><strong>Git</strong></sub>
-    </td>
+    <td align="center" width="120"><img src="./assets/icons/power-bi.svg" width="48" height="48" alt="Power BI" /><br /><sub><strong>Power BI</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/tableau.svg" width="48" height="48" alt="Tableau" /><br /><sub><strong>Tableau</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/excel.svg" width="48" height="48" alt="Microsoft Excel" /><br /><sub><strong>Excel</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/dax.svg" width="48" height="48" alt="DAX" /><br /><sub><strong>DAX</strong></sub></td>
+  </tr>
+</table>
+
+<h3 align="center">Automation &amp; DevOps</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/n8n.svg" width="48" height="48" alt="n8n" /><br /><sub><strong>n8n</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/github-actions.svg" width="48" height="48" alt="GitHub Actions" /><br /><sub><strong>GitHub Actions</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/azure-devops.svg" width="48" height="48" alt="Azure DevOps" /><br /><sub><strong>Azure DevOps</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/git.svg" width="48" height="48" alt="Git" /><br /><sub><strong>Git</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/linux.svg" width="48" height="48" alt="Linux" /><br /><sub><strong>Linux</strong></sub></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" /><br /><sub><strong>Docker</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /><br /><sub><strong>GitHub</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/rest-api.svg" width="48" height="48" alt="REST APIs" /><br /><sub><strong>REST APIs</strong></sub></td>
+  </tr>
+</table>
+
+<h3 align="center">Artificial Intelligence &amp; Machine Learning</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/openai.svg" width="48" height="48" alt="OpenAI API" /><br /><sub><strong>OpenAI API</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/scikit-learn.svg" width="48" height="48" alt="scikit-learn" /><br /><sub><strong>scikit-learn</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/transformers.svg" width="48" height="48" alt="Transformers" /><br /><sub><strong>Transformers</strong></sub></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/xgboost.svg" width="48" height="48" alt="XGBoost" /><br /><sub><strong>XGBoost</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/lightgbm.svg" width="48" height="48" alt="LightGBM" /><br /><sub><strong>LightGBM</strong></sub></td>
+    <td align="center" width="120"><img src="./assets/icons/catboost.svg" width="48" height="48" alt="CatBoost" /><br /><sub><strong>CatBoost</strong></sub></td>
   </tr>
 </table>
 
