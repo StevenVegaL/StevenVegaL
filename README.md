@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  📍 Cali, Colombia &nbsp; • &nbsp; 💼 Data Engineering, Analytics Engineering &amp; AI
+  📍 Bogotá, Colombia &nbsp; • &nbsp; 💼 Data Engineering, Analytics Engineering &amp; AI
   &nbsp; • &nbsp; 🌎 Open to remote opportunities
 </p>
 
